@@ -21,6 +21,11 @@ img#perfil-foto{
   width: 150px;
 }
 
+.company-img{
+  width: 30%;
+}
+
+
 .animate__animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
